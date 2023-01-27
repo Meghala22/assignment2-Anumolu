@@ -4,13 +4,11 @@
 Because it **teaches teamwork** and <br> a grate way to ***stay fit***
 
 ---
-# Best volleyball team
----
+## Titans Volleyball 
 
- ## Titans Volleyball 
-     1. Amit Balwan Singh
-     2. Karthik Ashok
-     3. G K S Ammal Akhin
- * All Stars
- * Ball Hogs 
- * Benders Shiny
+1. Amit Balwan Singh
+2. Karthik Ashok
+3. G K S Ammal Akhin
+- All Stars
+- Ball Hogs 
+- Benders Shiny
