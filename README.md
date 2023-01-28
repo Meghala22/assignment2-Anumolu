@@ -33,7 +33,7 @@ Because it **teaches teamwork** and <br> a grate way to ***stay fit***
 > The world is a stage, but the play is badly cast - *Oscar Wild*
 
 ---
-> [Deny except from specific IPs](https://css-tricks.com/snippets/htaccess/denying-allowing-access/)
+> [htaccess Stack Overflow](https://stackoverflow.com/questions/22012045/htaccess-rewrite-url-like-stack-overflow)  
   
 ```
      Order deny,allow
@@ -42,4 +42,5 @@ Because it **teaches teamwork** and <br> a grate way to ***stay fit***
      Allow from xxx.xxx.xxx.xxy
 
 ```
-> [htaccess Stack Overflow](https://stackoverflow.com/questions/22012045/htaccess-rewrite-url-like-stack-overflow)  
+> [Deny except from specific IPs](https://css-tricks.com/snippets/htaccess/denying-allowing-access/)
+  
